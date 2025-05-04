@@ -1,0 +1,7 @@
+,Attempted Runs,Successful Backtests,Valid Metrics Runs,Avg VR,% Passed Kupiec (p>=0.05),% Passed CC (p>=0.05)
+Parametric (Normal),30.0,29.0,29.0,3.489,10.3,44.8
+Parametric (T-Dist),30.0,29.0,29.0,3.968,3.4,20.7
+Historical Sim,30.0,29.0,29.0,2.422,72.4,86.2
+"GARCH(1,1)-Normal",30.0,29.0,29.0,2.983,44.8,55.2
+"GARCH(1,1)-T",30.0,29.0,29.0,0.041,100.0,100.0
+"FHS GARCH(1,1)",30.0,29.0,29.0,2.203,72.4,93.1

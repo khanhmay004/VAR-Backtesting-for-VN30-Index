@@ -1,0 +1,7 @@
+,Status,Violations,Exp. Violations,VR,RMSE,MAPE,Kupiec LR,Kupiec p,CC LR,CC p,Kupiec Result,CC Result
+Parametric (Normal),Backtest Skipped/Failed,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A (Test N/A),N/A (Test N/A)
+Parametric (T-Dist),Backtest Skipped/Failed,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A (Test N/A),N/A (Test N/A)
+Historical Sim,Backtest Skipped/Failed,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A (Test N/A),N/A (Test N/A)
+"GARCH(1,1)-Normal",Backtest Skipped/Failed,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A (Test N/A),N/A (Test N/A)
+"GARCH(1,1)-T",Backtest Skipped/Failed,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A (Test N/A),N/A (Test N/A)
+"FHS GARCH(1,1)",Backtest Skipped/Failed,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A (Test N/A),N/A (Test N/A)

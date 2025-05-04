@@ -1,0 +1,7 @@
+,Status,Violations,Exp. Violations,VR,RMSE,MAPE,Kupiec LR,Kupiec p,CC LR,CC p,Kupiec Result,CC Result
+Parametric (Normal),Success,12,2.52,4.762,0.02294,36.86%,18.86,0.000,20.066,0.000,"Reject H0 (p=0.000, Model Inadequate)","Reject H0 (p=0.000, Model Inadequate)"
+Parametric (T-Dist),Success,21,2.52,8.333,0.02291,52.28%,53.495,0.000,57.335,0.000,"Reject H0 (p=0.000, Model Inadequate)","Reject H0 (p=0.000, Model Inadequate)"
+Historical Sim,Success,9,2.52,3.571,0.02238,36.57%,10.123,0.001,10.793,0.005,"Reject H0 (p=0.001, Model Inadequate)","Reject H0 (p=0.005, Model Inadequate)"
+"GARCH(1,1)-Normal",Success,9,2.52,3.571,0.02306,32.60%,10.123,0.001,10.793,0.005,"Reject H0 (p=0.001, Model Inadequate)","Reject H0 (p=0.005, Model Inadequate)"
+"GARCH(1,1)-T",Success,2,2.52,0.794,0.01626,21.19%,0.117,0.733,0.149,0.928,"Fail to Reject H0 (p=0.733, Model Adequate)","Fail to Reject H0 (p=0.928, Model Adequate)"
+"FHS GARCH(1,1)",Success,7,2.52,2.778,0.02279,31.80%,5.424,0.020,5.826,0.054,"Reject H0 (p=0.020, Model Inadequate)","Fail to Reject H0 (p=0.054, Model Adequate)"
